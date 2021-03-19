@@ -27,7 +27,7 @@ public class Test {
 }
 ```
 
-(This is my first package publish to maven central.)
+(This is my first package published to maven central.)
 
 ## Attach
 
