@@ -1,4 +1,4 @@
-## test
+## Intro
 
 You can use it by add dependency info:
 
@@ -28,3 +28,7 @@ public class Test {
 ```
 
 (This is my first package publish to maven central.)
+
+## Attach
+
+https://mvnrepository.com/artifact/net.smallyu.maven/test
